@@ -13,12 +13,7 @@ Master's student in Visual Computing · Full Stack Developer
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
-## GitHub Metrics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_VRAI_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_VRAI_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 ## Contact
 
 <p align="center">
