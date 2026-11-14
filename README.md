@@ -16,9 +16,9 @@ Master's student in Visual Computing · Full Stack Developer
 ## GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_VRAI_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_VRAI_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ## Contact
 
 <p align="center">
