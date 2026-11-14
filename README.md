@@ -1,24 +1,11 @@
 # Hi there 👋, I'm Soumia Dadi
 
-<h3 align="center">🎓 Master's Student in Visual Computing | 💻 Full Stack Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Visual+Computing+Student;Always+Learning+New+Things!" />
-</p>
+<h3 align="center"> Master's Student in Visual Computing |  Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
 </p>
-
 ---
-
-## 👩‍💻 About Me
-
-- Master's student in Visual Computing at USTHB.
--  Interested in Full Stack Development.
--  Passionate about Computer Vision and Image Processing.
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -37,12 +24,6 @@
   <a href="https://www.linkedin.com/in/soumia-dadi-526a33264/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/soumia.dadi.2025/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/soumia__dadi?psln=dXJ0Y3ZwOGltYXdj/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://discord.com/users/892934367683428412">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -58,7 +39,6 @@
 </p>
 
 ---
-
 <h3 align="center">✨ Thanks for visiting my profile!</h3>
 
 <p align="center">
