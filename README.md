@@ -13,6 +13,11 @@ Master's student in Visual Computing · Full Stack Developer
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
+## GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
 ## Contact
 
