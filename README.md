@@ -14,14 +14,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Master's student in Visual Computing at USTHB.
-- 💻 Interested in Full Stack Development.
-- 👁️ Passionate about Computer Vision and Image Processing.
-- 🌱 Currently learning React.js and Node.js.
-- 🚀 Working on Web Development and AI projects.
-- 🎯 Always learning and exploring new technologies.
+- Master's student in Visual Computing at USTHB.
+-  Interested in Full Stack Development.
+-  Passionate about Computer Vision and Image Processing.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -35,30 +31,10 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -71,22 +47,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/soumia-dadi-526a33264/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK/">
+  <a href="https://www.facebook.com/soumia.dadi.2025/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+  <a href="https://www.instagram.com/soumia__dadi?psln=dXJ0Y3ZwOGltYXdj/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/892934367683428412">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
+  <a href="https://wa.me/213559174223">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:soumiadadi17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
