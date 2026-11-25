@@ -33,7 +33,7 @@ jobs:
           username: DadiSoumia
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: github-metrics-habits.svg
-          options: theme=tokyo-night&area=true&hide_border=true&days=30
+          options: bg_color=211438&border_color=7653A6&color=E9D5FF&title_color=E9C5FF&line=C084FC&point=E9B8FF&area_color=C084FC&area=true&hide_border=false&days=30
 
       # 3. Commit generated SVG files
       - name: Commit files
