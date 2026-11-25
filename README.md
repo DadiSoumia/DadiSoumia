@@ -13,7 +13,6 @@ Master's student in Visual Computing · Full Stack Developer
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
-
 ## Contact
 
 <p align="center">
@@ -26,4 +25,12 @@ Master's student in Visual Computing · Full Stack Developer
   <a href="https://soumiadadi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
+
+## GitHub Metrics
+<p align="center">
+  <img src="github-metrics.svg" />
+</p>
+<p align="center">
+  <img src="github-metrics-habits.svg" />
 </p>
